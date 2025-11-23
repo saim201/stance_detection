@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+env/
+venv/
+build/
+MANIFEST
+
+
+*.ipynb
+
+.vscode/
+*.tmp
+*.temp
+.cache/
+
+
+.env
+
