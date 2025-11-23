@@ -5,9 +5,6 @@ venv/
 build/
 MANIFEST
 
-
-*.ipynb
-
 .vscode/
 *.tmp
 *.temp
